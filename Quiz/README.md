@@ -1,7 +1,7 @@
-Here I created some little project like Quiz App. 
-Using this app one user will be to verify his knowldege answering some question in dart and after that he will see the result. 
+Quiz app for testing one knowledge how he know about dart.
+Just answering some question. 
+App will automatically give him the score and comments. 
+ 
 
-
-
-Using Form_validation he can add any product name and it's price after that he will see his all products name and price.
-Then he can assemble products in ascending order by price.
+![first_page](https://user-images.githubusercontent.com/90592507/165361382-7d4e0a13-ac97-4631-87af-cc558e404630.PNG)
+![result_page](https://user-images.githubusercontent.com/90592507/165361425-a4e166dd-f369-4799-afab-17d89a71ced2.PNG)
